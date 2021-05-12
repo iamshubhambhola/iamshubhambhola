@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I am Shubham Bhola :wave:</h1>
+<h1 align="center">Hey there:wave:! I am Shubham Bhola </h1>
 <h3 align="center">🚀 Full-Stack Developer | Competitive Programmer | Technical Blogger 🚀</h3>
 <hr>
 <ul>
@@ -10,4 +10,4 @@
   <li>:male_sign:    Pronouns : He/His</li>
 </ul>
 <hr>
-<span><h4>🌐 Connect with me :</h4><a href="www.linkedin.com/in/shubham-bhola-5823971bb"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FibhmiJo_linkedin-link-high-resolution-linkedin-logo-png-clipart%2F&psig=AOvVaw0FYv0F8kgGvvxfrwwCh0kE&ust=1620846852020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjQnJmrwvACFQAAAAAdAAAAABAQ" width="25px"></a><a href="#"></a></span>
+<span><h4>🌐 Connect with me :</h4><a href="www.linkedin.com/in/shubham-bhola-5823971bb"><img src="linkedin.png" width="30px"></a><a href="#"></a></span>
