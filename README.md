@@ -10,4 +10,4 @@
   <li>:male_sign:    Pronouns : He/His</li>
 </ul>
 <hr>
-<span><h4>🌐 Connect with me :</h4><a href="www.linkedin.com/in/shubham-bhola-5823971bb"><img src="linkedin.png" width="30px"></a><a href="#"></a></span>
+<span><h4>🌐 Connect with me :</h4><a href="https://www.linkedin.com/in/shubham-bhola-5823971bb"><img src="linkedin.png" width="30px"></a><a href="#"></a></span>
