@@ -11,3 +11,5 @@
 </ul>
 <hr>
 <span><h4>🌐 Connect with me :</h4><a href="https://www.linkedin.com/in/shubham-bhola-5823971bb"><img src="linkedin.png" width="30px"></a><a href="#"></a></span>
+<hr>
+<h3>✍Check out my blogs <a href="https://itzshubham.medium.com/">here</a></h3>
