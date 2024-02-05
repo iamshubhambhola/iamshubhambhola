@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshubhambhola" alt="iamshubhambhola" /></a> </p>
 
-- 👨‍🎓 Persuing IT engineering student from **Netaji Subhas University of Technology.**
+- 👨‍🎓 Persuing IT engineering from **Netaji Subhas University of Technology.**
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain.**
 
