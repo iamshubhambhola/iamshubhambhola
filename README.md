@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain.**
 
-- 📝 Checkout my blogs on [https://itzshubham.medium.com/](https://itzshubham.medium.com/)
+- 📝 Checkout my blogs on [medium](https://itzshubham.medium.com/).
 
 - 💬 Ask me about **anything related to latest tech.**
 
