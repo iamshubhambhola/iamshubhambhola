@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Shubham Bhola</h1>
+<h3 align="center">🚀 Full-Stack Developer | Competitive Programmer | Technical Blogger 🚀</h3>
+
+
 # 💫 About Me:
 👨‍🎓 Pursuing IT engineering from Netaji Subhas University of Technology<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning blockchain and ML<br>💬 Ask me about anything related to latest tech<br>🔭 I’m currently working on "even idk"
 
