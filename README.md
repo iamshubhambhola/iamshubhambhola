@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍🎓 Pursuing IT engineering from Netaji Subhas University of Technology<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning blockchain and ML<br>💬 Ask me about anything related to latest tech<br>🔭 I’m currently working on "even idk"
+👨‍🎓 Pursuing IT engineering from Netaji Subhas University of Technology<br>👯 I’m looking to collaborate on backend projects<br>🌱 I’m currently learning blockchain and ML<br>💬 Ask me about anything related to latest tech<br>🔭 I’m currently working on "even idk"
 
 <img src='https://as2.ftcdn.net/v2/jpg/04/39/93/99/1000_F_439939972_GxycVL7LuSTEW1jFSOV2GDwq2OqDksGq.jpg' style="height: 160px;"/> <img src='https://st2.depositphotos.com/44176906/47900/i/450/depositphotos_479003304-stock-photo-dog-glasses-red-shirt-sits.jpg' style="height: 160px;"/>
 
